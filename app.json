@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e663ee94-7456-4fd9-98cd-1d12f4861f99"
+      }
+    },
+    "owner": "igorfc"
   }
 }
