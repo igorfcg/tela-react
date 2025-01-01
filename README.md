@@ -1,4 +1,4 @@
-Trabalho atitudinal de PDM
+Tela em React native
 integrantes: Igor França
 Arthur Cordeiro
 Enzo Cópia
